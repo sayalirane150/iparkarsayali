@@ -1,0 +1,29 @@
+----Patient Report---- 
+Status : Unhealthy
+Disease : Bronchiectasis
+
+****Immidiately Visit Doctor For Consultation.****
+
+----Symptoms of bronchiectasis----
+-chronic daily cough
+-coughing up blood
+-abnormal sounds or wheezing in the chest with breathing
+-shortness of breath
+-chest pain
+-coughing up large amounts of thick mucus every day
+-weight loss
+-fatigue
+-change in the structure of fingernails and toenails, known as clubbing
+-frequent respiratory infections
+
+----How is bronchiectasis diagnosed?----
+-sputum test to check your mucus for microorganisms such as viruses, fungi, or bacteria
+-chest X-ray or CT scan to provide images of your lungs
+-pulmonary function tests to find out how well air is flowing into your lungs
+-QuantiFERON blood test or purified protein derivative (PPD) skin test to check for tuberculosis
+-sweat test to screen for CF
+
+----What Are the Risk Factors for Bronchiectasis?----
+-Absent or dysfunctional CFTR protein in bronchial cells in cystic fibrosis (CF)
+-Having a whole-body (systemic) disease associated with bronchiectasis like those mentioned above
+-Chronic or severe lung infections (such as tuberculosis, or TB) that damage the airways
